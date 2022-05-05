@@ -1,1 +1,1 @@
-# 3D-Solar-System-Sim
+# 3D-Solar-System-Visualisation in Processing.
